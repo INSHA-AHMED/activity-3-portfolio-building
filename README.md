@@ -4,3 +4,4 @@ My name is Insha Ahmed, and I am a BTech Computer Science and Information Techno
 ## Learning Profile
 
 - Skill: Learning Python
+- Interest: Data Science and Software Development
