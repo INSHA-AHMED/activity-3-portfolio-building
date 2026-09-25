@@ -5,3 +5,4 @@ My name is Insha Ahmed, and I am a BTech Computer Science and Information Techno
 
 - Skill: Learning Python
 - Interest: Data Science and Software Development
+- Goal: Contribute to open-source projects
